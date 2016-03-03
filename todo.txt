@@ -1,0 +1,11 @@
+- add links to each page from dropdown
+- add fonts
+- center second line of member div
+- add description / updates board..
+  - current projects
+  - past projects??
+  - links to vids etc
+
+
+- look at refs for organization pages
+- fix / add js
