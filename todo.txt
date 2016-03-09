@@ -1,6 +1,6 @@
 - add links to each page from dropdown
 - add fonts
-- center second line of member div
+- set fixed height / width to member line divs
 - add description / updates board..
   - current projects
   - past projects??
