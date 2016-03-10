@@ -33,7 +33,38 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
+  <!DOCTYPE html>
+  <head>
+      <style> body {
+                  text-align: center;
+                  background: url(https://www.petfinder.com/wp-content/uploads/2012/11/dog-how-to-select-your-new-best-friend-thinkstock99062463.jpg);
+                  color: white;
+                  font-family: Helvetica;
+                  background-size: cover;
+                  background-position: center center;
+                  background-repeat: no-repeat;
+                  background-attachment: fixed;
 
+          }
+              p {
+                  font-size: 24 px;
+              }
+              input {
+                  border: 0;
+                  padding: 12px;
+                  font-size: 18px;
+
+              }
+              input[type="submit"] {
+                  background: limegreen;
+                  color: black;
+              }
+  </style> </head>
+  <body>
+  <img src="data:image/png;base64,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" height="100"
+  <p>Hey there! I'm Grace and I am a soph at CSH. I am learning to code, in code club and through my intro comp sci course. I am a Girl Scout :-). </p>
+  <input type="email" placeholder= "Email"> <input type="submit">
+  </body>
   <body>
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
