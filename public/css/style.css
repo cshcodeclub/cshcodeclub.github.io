@@ -99,7 +99,7 @@ h1 {
 }
 
 .memberline {
-  display:inline;
+  display:block;
   float:center;
   min-width:100%;
   margin-top:200px;
