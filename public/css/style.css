@@ -146,6 +146,7 @@ h1 {
   position:relative;
   float:right;
   display:inline-block;
+  bottom:320px;
 }
 .actions label {
     display: block;
