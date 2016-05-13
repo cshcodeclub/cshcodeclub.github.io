@@ -145,6 +145,7 @@ h1 {
 .indexactions {
   position:relative;
   float:right;
+  display:inline-block;
 }
 .actions label {
     display: block;
