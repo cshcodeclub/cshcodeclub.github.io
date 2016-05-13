@@ -129,7 +129,7 @@ h1 {
     background-color: #FFFFFF;
     bottom: 30px;
     padding: 10px;
-    /*position: absolute;*/
+    position: absolute;
     right: 30px;
     z-index: 999;
 
@@ -140,6 +140,11 @@ h1 {
     -webkit-border-radius: 12px;
     -moz-border-radius: 12px;
     border-radius: 12px;
+}
+
+.indexactions {
+  position:relative;
+  float:right;
 }
 .actions label {
     display: block;
